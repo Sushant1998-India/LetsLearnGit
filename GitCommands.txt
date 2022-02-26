@@ -16,6 +16,15 @@ cd:// to locate current directory
 
 git init // to create repository into directory
 
+git status// to check the status off the files
+
+Following is the process followed by git:
+ Working Directory: Making changes in the file
+
+ git add <filename>: After executing this command respective file comes in staging area
+
+ git commit -m <message> After executing this command respective files comes under repository
+
 
 
 
