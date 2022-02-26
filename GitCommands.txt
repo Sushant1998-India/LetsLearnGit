@@ -25,6 +25,13 @@ Following is the process followed by git:
 
  git commit -m <message> After executing this command respective files comes under repository
 
+git log  // to check the logs of files
+
+git branch <branchname> to add branches to main branch
+
+git checkout <branchname> to go to that branch
+
+git push
 
 
 
