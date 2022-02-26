@@ -8,7 +8,7 @@ git config --global user.name "sushantshastri24@gmail.com" //to set the user ema
 
 git config --global --edit // you can edit the user name and email from this command too
 
-CTRL+:+WQ // to return backinto terminal
+Esc then colon then type wq // to return backinto terminal
 
 mkdir // to make directory
 
