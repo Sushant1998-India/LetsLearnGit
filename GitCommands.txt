@@ -4,5 +4,19 @@ git --version // to check the version of Git
 
 git config --global user.name "Sushant"  // to set the username Sushant
 
+git config --global user.name "sushantshastri24@gmail.com" //to set the user email
+
+git config --global --edit // you can edit the user name and email from this command too
+
+CTRL+:+WQ // to return backinto terminal
+
+mkdir // to make directory
+
+cd:// to locate current directory
+
+git init // to create repository into directory
+
+
+
 
 
