@@ -33,6 +33,10 @@ git checkout <branchname> to go to that branch
 
 git push
 
+vim <filename> // to make the changes in the file in editor only
+
+cat <filename> // to see what the changes made in the file in editor only
+
 
 
 
